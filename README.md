@@ -1,4 +1,4 @@
-# Province, District and Village Data for Laos PDR (ຂໍ້ມູນແຂວງ, ເມືອງ ແລະ ບ້ານ ໃນປະເທດລາວ)
+# Province, District and Village Data in Laos PDR (ຂໍ້ມູນແຂວງ, ເມືອງ ແລະ ບ້ານ ໃນປະເທດລາວ)
 ໃນ Repo ນີ້ປະກອບມີໄຟລ json ທີ່ເກັບກໍາຂອງມູນ ແຂວງ, ເມຶອງ ແລະ ບ້ານ. ຂໍ້ມູນຖືກຈັດຮຽງໃນຮູບແບບ JSON ແລະ ປະກອບດ້ວຍຂໍ້ມູນເຊັ່ນ: ຊື່ເມືອງໃນພາສາອັງກິດ ແລະ ພາສາລາວ, ລະຫັດເມືອງ, ຊື່ບ້ານ ແລະຊື່ແຂວງ.
 
 This project contains data for villages and districts in various provinces in Laos PDR. The data is structured in JSON format and includes information such as village names in both English and Lao, village codes, district names, and province names.
