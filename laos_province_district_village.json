@@ -11,7 +11,7 @@
       "districtsData": [
         {
           "districtEngName": "CHANTHABOULY",
-          "districtLaoName": "ຈັນ​ທະ​ບູ​ລີ",
+          "districtLaoName": "ຈັນທະບູລີ",
           "districtCode": "0101",
           "totalVillages": 36,
           "villagesData": [
@@ -199,7 +199,7 @@
         },
         {
           "districtEngName": "SIKHOTTABONG",
-          "districtLaoName": "ສີ​ໂຄດ​ຕະ​ບອງ",
+          "districtLaoName": "ສີໂຄດຕະບອງ",
           "districtCode": "0102",
           "totalVillages": 70,
           "villagesData": [
@@ -557,7 +557,7 @@
         },
         {
           "districtEngName": "XAYSETTHA",
-          "districtLaoName": "ໄຊ​ເສດ​ຖາ",
+          "districtLaoName": "ໄຊເສດຖາ",
           "districtCode": "0103",
           "totalVillages": 32,
           "villagesData": [
@@ -725,7 +725,7 @@
         },
         {
           "districtEngName": "SISATTANAK",
-          "districtLaoName": "ສີ​ສັດ​ຕະ​ນາກ",
+          "districtLaoName": "ສີສັດຕະນາກ",
           "districtCode": "0104",
           "totalVillages": 43,
           "villagesData": [
@@ -948,7 +948,7 @@
         },
         {
           "districtEngName": "NAXAITHONG",
-          "districtLaoName": "ນາ​ຊາຍ​ທອງ",
+          "districtLaoName": "ນາຊາຍທອງ",
           "districtCode": "0105",
           "totalVillages": 61,
           "villagesData": [
@@ -1261,7 +1261,7 @@
         },
         {
           "districtEngName": "XAYTHANY",
-          "districtLaoName": "ໄຊ​ທາ​ນີ",
+          "districtLaoName": "ໄຊທານີ",
           "districtCode": "0106",
           "totalVillages": 120,
           "villagesData": [
@@ -1869,7 +1869,7 @@
         },
         {
           "districtEngName": "HADXAIFONG",
-          "districtLaoName": "ຫາດ​ຊາຍ​ຟອງ",
+          "districtLaoName": "ຫາດຊາຍຟອງ",
           "districtCode": "0107",
           "totalVillages": 73,
           "villagesData": [
@@ -2242,7 +2242,7 @@
         },
         {
           "districtEngName": "SANGTHONG",
-          "districtLaoName": "ສັງ​ທອງ",
+          "districtLaoName": "ສັງທອງ",
           "districtCode": "0108",
           "totalVillages": 41,
           "villagesData": [
@@ -2455,7 +2455,7 @@
         },
         {
           "districtEngName": "PAKNGUEM",
-          "districtLaoName": "ປາກ​ງື່ມ",
+          "districtLaoName": "ປາກງື່ມ",
           "districtCode": "0109",
           "totalVillages": 54,
           "villagesData": [
@@ -2741,7 +2741,7 @@
       "districtsData": [
         {
           "districtEngName": "PHONGSALY",
-          "districtLaoName": "ຜົ້ງ​ສາ​ລີ",
+          "districtLaoName": "ຜົ້ງສາລີ",
           "districtCode": "0201",
           "totalVillages": 94,
           "villagesData": [
@@ -2827,7 +2827,7 @@
             },
             {
               "villageEngName": "HARDSA",
-              "villageLaoName": "ຫາດ​ສາ",
+              "villageLaoName": "ຫາດສາ",
               "villageCode": "0201017"
             },
             {
@@ -2837,7 +2837,7 @@
             },
             {
               "villageEngName": "PANGSOR",
-              "villageLaoName": "ປາ​ງ​ຊໍ່",
+              "villageLaoName": "ປາງຊໍ່",
               "villageCode": "0201019"
             },
             {
@@ -2902,7 +2902,7 @@
             },
             {
               "villageEngName": "HUANGTARNHAE",
-              "villageLaoName": "ຮວງ​ຕ້າ​ເຢ",
+              "villageLaoName": "ຮວງຕ້າເຢ",
               "villageCode": "0201032"
             },
             {
@@ -2977,7 +2977,7 @@
             },
             {
               "villageEngName": "PHONGSEK",
-              "villageLaoName": "ຜົ້ງແ​ຊັກ",
+              "villageLaoName": "ຜົ້ງແຊັກ",
               "villageCode": "0201047"
             },
             {
@@ -3219,23 +3219,23 @@
         },
         {
           "districtEngName": "MAI",
-          "districtLaoName": "​ໃໝ່",
+          "districtLaoName": "ໃໝ່",
           "districtCode": "0202",
           "totalVillages": 119,
           "villagesData": [
             {
               "villageEngName": "PANGHOK",
-              "villageLaoName": "ປາງ​ຫົກ",
+              "villageLaoName": "ປາງຫົກ",
               "villageCode": "0202001"
             },
             {
               "villageEngName": "SOPHOUN",
-              "villageLaoName": "ສົບ​ຮຸນ",
+              "villageLaoName": "ສົບຮຸນ",
               "villageCode": "0202002"
             },
             {
               "villageEngName": "SOPNAO",
-              "villageLaoName": "ສົບ​ນ້າວ",
+              "villageLaoName": "ສົບນ້າວ",
               "villageCode": "0202003"
             },
             {
@@ -3245,17 +3245,17 @@
             },
             {
               "villageEngName": "SENARD",
-              "villageLaoName": "ແສນ​ອາດ",
+              "villageLaoName": "ແສນອາດ",
               "villageCode": "0202005"
             },
             {
               "villageEngName": "MOKCHALA",
-              "villageLaoName": "ມົກ​ຈະ​ລະ",
+              "villageLaoName": "ມົກຈະລະ",
               "villageCode": "0202006"
             },
             {
               "villageEngName": "HUAYSONGNEUA",
-              "villageLaoName": "ຫ້ວຍ​ຊອ​ງ​ເໜືອ",
+              "villageLaoName": "ຫ້ວຍຊອງເໜືອ",
               "villageCode": "0202007"
             },
             {
@@ -3270,7 +3270,7 @@
             },
             {
               "villageEngName": "NAKHAM",
-              "villageLaoName": "​​ນາ​ຄຳ",
+              "villageLaoName": "ນາຄຳ",
               "villageCode": "0202010"
             },
             {
@@ -3285,62 +3285,62 @@
             },
             {
               "villageEngName": "OMKANENG",
-              "villageLaoName": "ອົມ​ກະ​ເນງ",
+              "villageLaoName": "ອົມກະເນງ",
               "villageCode": "0202013"
             },
             {
               "villageEngName": "HUAYVANGSOUD",
-              "villageLaoName": "ຫ້ວຍ​ວາງ​ສຸດ",
+              "villageLaoName": "ຫ້ວຍວາງສຸດ",
               "villageCode": "0202014"
             },
             {
               "villageEngName": "HUAYOUN",
-              "villageLaoName": "ຫ້ວຍ​ອຸນ",
+              "villageLaoName": "ຫ້ວຍອຸນ",
               "villageCode": "0202015"
             },
             {
               "villageEngName": "PONGSIMAI",
-              "villageLaoName": "ປ່ອງ​ສີ​ໃໝ່",
+              "villageLaoName": "ປ່ອງສີໃໝ່",
               "villageCode": "0202016"
             },
             {
               "villageEngName": "TINTOK",
-              "villageLaoName": "ຕີນ​ຕົກ",
+              "villageLaoName": "ຕີນຕົກ",
               "villageCode": "0202017"
             },
             {
               "villageEngName": "OMPALONG",
-              "villageLaoName": "ອົມ​ປະ​ໂລງ",
+              "villageLaoName": "ອົມປະໂລງ",
               "villageCode": "0202018"
             },
             {
               "villageEngName": "HUAYVANG",
-              "villageLaoName": "ຫ້ວຍ​ວາງ​",
+              "villageLaoName": "ຫ້ວຍວາງ",
               "villageCode": "0202019"
             },
             {
               "villageEngName": "POUNGYANG",
-              "villageLaoName": "ປຸງ​ຍາງ",
+              "villageLaoName": "ປຸງຍາງ",
               "villageCode": "0202020"
             },
             {
               "villageEngName": "TAMO",
-              "villageLaoName": "ຕະ​ໂມະ",
+              "villageLaoName": "ຕະໂມະ",
               "villageCode": "0202021"
             },
             {
               "villageEngName": "HADCHA",
-              "villageLaoName": "ຫາດ​ຈາ",
+              "villageLaoName": "ຫາດຈາ",
               "villageCode": "0202022"
             },
             {
               "villageEngName": "SIDA",
-              "villageLaoName": "ສີ​ດາ",
+              "villageLaoName": "ສີດາ",
               "villageCode": "0202023"
             },
             {
               "villageEngName": "NHARNHOUNG",
-              "villageLaoName": "ຫ້ວຍ​ຍຸງ",
+              "villageLaoName": "ຫ້ວຍຍຸງ",
               "villageCode": "0202024"
             },
             {
@@ -3350,7 +3350,7 @@
             },
             {
               "villageEngName": "TANGSOY",
-              "villageLaoName": "ຕ່າງ​ໂຊຍ",
+              "villageLaoName": "ຕ່າງໂຊຍ",
               "villageCode": "0202026"
             },
             {
@@ -3360,47 +3360,47 @@
             },
             {
               "villageEngName": "SENNGERN",
-              "villageLaoName": "ແສນ​ເງິນ",
+              "villageLaoName": "ແສນເງິນ",
               "villageCode": "0202028"
             },
             {
               "villageEngName": "PAKLENG",
-              "villageLaoName": "ປາກ​ແລ້ງ",
+              "villageLaoName": "ປາກແລ້ງ",
               "villageCode": "0202029"
             },
             {
               "villageEngName": "PAKPHAE",
-              "villageLaoName": "ປາກ​ແພ",
+              "villageLaoName": "ປາກແພ",
               "villageCode": "0202030"
             },
             {
               "villageEngName": "PANGHAINUEA",
-              "villageLaoName": "ປ​າງ​ໄຮ​ເໜືອ",
+              "villageLaoName": "ປາງໄຮເໜືອ",
               "villageCode": "0202031"
             },
             {
               "villageEngName": "SOUNGLOUNG",
-              "villageLaoName": "ສູງ​ລຸງ",
+              "villageLaoName": "ສູງລຸງ",
               "villageCode": "0202032"
             },
             {
               "villageEngName": "CHAMERY",
-              "villageLaoName": "ຈະ​ເມີຍ",
+              "villageLaoName": "ຈະເມີຍ",
               "villageCode": "0202033"
             },
             {
               "villageEngName": "NHANGTAI",
-              "villageLaoName": "ຍາງ​ໃຕ້",
+              "villageLaoName": "ຍາງໃຕ້",
               "villageCode": "0202034"
             },
             {
               "villageEngName": "CHABEU",
-              "villageLaoName": "ຈະ​ບື",
+              "villageLaoName": "ຈະບື",
               "villageCode": "0202035"
             },
             {
               "villageEngName": "MOUTERN",
-              "villageLaoName": "ມູ​ເຕີນ",
+              "villageLaoName": "ມູເຕີນ",
               "villageCode": "0202036"
             },
             {
@@ -3410,47 +3410,47 @@
             },
             {
               "villageEngName": "HUAYDOI",
-              "villageLaoName": "ຫ້ວຍ​ດ້ອຍ",
+              "villageLaoName": "ຫ້ວຍດ້ອຍ",
               "villageCode": "0202038"
             },
             {
               "villageEngName": "HUAYKANG",
-              "villageLaoName": "ຫ້ວຍ​ກາງ",
+              "villageLaoName": "ຫ້ວຍກາງ",
               "villageCode": "0202039"
             },
             {
               "villageEngName": "NALUANG",
-              "villageLaoName": "ນາ​ຫລວງ",
+              "villageLaoName": "ນາຫລວງ",
               "villageCode": "0202040"
             },
             {
               "villageEngName": "BUAMPHANH",
-              "villageLaoName": "ບວມ​ພັນ",
+              "villageLaoName": "ບວມພັນ",
               "villageCode": "0202041"
             },
             {
               "villageEngName": "SANEN",
-              "villageLaoName": "ແສນ​ອິນ",
+              "villageLaoName": "ແສນອິນ",
               "villageCode": "0202042"
             },
             {
               "villageEngName": "KOOUNGLOUNG",
-              "villageLaoName": "ກຸງ​ລຸງ",
+              "villageLaoName": "ກຸງລຸງ",
               "villageCode": "0202043"
             },
             {
               "villageEngName": "KEWKACHAM",
-              "villageLaoName": "ກິວ​ກະ​ຈຳ",
+              "villageLaoName": "ກິວກະຈຳ",
               "villageCode": "0202044"
             },
             {
               "villageEngName": "OMPALOU",
-              "villageLaoName": "ອົມ​ພະ​ລຸ",
+              "villageLaoName": "ອົມພະລຸ",
               "villageCode": "0202045"
             },
             {
               "villageEngName": "SANLUANG",
-              "villageLaoName": "ແສນ​ຫລວງ",
+              "villageLaoName": "ແສນຫລວງ",
               "villageCode": "0202046"
             },
             {
@@ -3460,92 +3460,92 @@
             },
             {
               "villageEngName": "NHARKHA",
-              "villageLaoName": "ຫຍ້າ​ຄາ",
+              "villageLaoName": "ຫຍ້າຄາ",
               "villageCode": "0202048"
             },
             {
               "villageEngName": "SANTA",
-              "villageLaoName": "ແສນ​ຕາ",
+              "villageLaoName": "ແສນຕາ",
               "villageCode": "0202049"
             },
             {
               "villageEngName": "HUAYLAI",
-              "villageLaoName": "ຫ້ວຍ​ລາຍ-ປາກ​ປາ",
+              "villageLaoName": "ຫ້ວຍລາຍ-ປາກປາ",
               "villageCode": "0202050"
             },
             {
               "villageEngName": "CHOMCHEOMAI",
-              "villageLaoName": "ຈອມ​ແຈວ​ໃໝ່",
+              "villageLaoName": "ຈອມແຈວໃໝ່",
               "villageCode": "0202051"
             },
             {
               "villageEngName": "HUAYMIN",
-              "villageLaoName": "ຫ້​ວຍ​ມືນ",
+              "villageLaoName": "ຫ້ວຍມືນ",
               "villageCode": "0202052"
             },
             {
               "villageEngName": "NABOUA",
-              "villageLaoName": "ນາ​ບົວ",
+              "villageLaoName": "ນາບົວ",
               "villageCode": "0202053"
             },
             {
               "villageEngName": "PHONXAY",
-              "villageLaoName": "ໂພນ​ໄຊ",
+              "villageLaoName": "ໂພນໄຊ",
               "villageCode": "0202054"
             },
             {
               "villageEngName": "HUAYYON",
-              "villageLaoName": "ຫ້ວຍ​ອັນ",
+              "villageLaoName": "ຫ້ວຍອັນ",
               "villageCode": "0202055"
             },
             {
               "villageEngName": "SAOYAE",
-              "villageLaoName": "ຊາວ​ເຢ",
+              "villageLaoName": "ຊາວເຢ",
               "villageCode": "0202056"
             },
             {
               "villageEngName": "PHIALORKAO",
-              "villageLaoName": "ເພຍ​ລໍເກົ່າ",
+              "villageLaoName": "ເພຍລໍເກົ່າ",
               "villageCode": "0202057"
             },
             {
               "villageEngName": "PHIALORMAI",
-              "villageLaoName": "ເພຍລໍ​ໃໝ່",
+              "villageLaoName": "ເພຍລໍໃໝ່",
               "villageCode": "0202058"
             },
             {
               "villageEngName": "NAMKHONG",
-              "villageLaoName": "ນ້ຳ​ໂຂ້ງ",
+              "villageLaoName": "ນ້ຳໂຂ້ງ",
               "villageCode": "0202059"
             },
             {
               "villageEngName": "PALAN",
-              "villageLaoName": "​ປ່າ​ລັນ",
+              "villageLaoName": "ປ່າລັນ",
               "villageCode": "0202060"
             },
             {
               "villageEngName": "HUAYTHONG",
-              "villageLaoName": "ຫ້ວຍ​ທອງ",
+              "villageLaoName": "ຫ້ວຍທອງ",
               "villageCode": "0202061"
             },
             {
               "villageEngName": "PHIALUANG",
-              "villageLaoName": "ພຽງ​ຫຼວງ",
+              "villageLaoName": "ພຽງຫຼວງ",
               "villageCode": "0202062"
             },
             {
               "villageEngName": "HUAYNGERY",
-              "villageLaoName": "ຫ້ວຍ​ເງີຍ",
+              "villageLaoName": "ຫ້ວຍເງີຍ",
               "villageCode": "0202063"
             },
             {
               "villageEngName": "LAOMAKANG",
-              "villageLaoName": "ລາວ​ມາ​ກາງ",
+              "villageLaoName": "ລາວມາກາງ",
               "villageCode": "0202064"
             },
             {
               "villageEngName": "NAKHOUA",
-              "villageLaoName": "ນາ​ຂວາ",
+              "villageLaoName": "ນາຂວາ",
               "villageCode": "0202065"
             },
             {
@@ -3555,47 +3555,47 @@
             },
             {
               "villageEngName": "NALAE",
-              "villageLaoName": "ນາ​ແລ",
+              "villageLaoName": "ນາແລ",
               "villageCode": "0202067"
             },
             {
               "villageEngName": "MAIDEUA",
-              "villageLaoName": "ໄໝ່​ເດືອ",
+              "villageLaoName": "ໄໝ່ເດືອ",
               "villageCode": "0202068"
             },
             {
               "villageEngName": "SOUMPOI",
-              "villageLaoName": "ສົມ​ປ່ອຍ",
+              "villageLaoName": "ສົມປ່ອຍ",
               "villageCode": "0202069"
             },
             {
               "villageEngName": "NAMNAEN",
-              "villageLaoName": "ນ້ຳ​ແນນ",
+              "villageLaoName": "ນ້ຳແນນ",
               "villageCode": "0202070"
             },
             {
               "villageEngName": "HUAYHONG",
-              "villageLaoName": "ຫ້ວຍ​ຮອງ",
+              "villageLaoName": "ຫ້ວຍຮອງ",
               "villageCode": "0202071"
             },
             {
               "villageEngName": "HUAYHAI",
-              "villageLaoName": "ຫ້ວຍ​ເຮັ້ຍ",
+              "villageLaoName": "ຫ້ວຍເຮັ້ຍ",
               "villageCode": "0202072"
             },
             {
               "villageEngName": "SALUANG",
-              "villageLaoName": "ສະ​ຫລວງ",
+              "villageLaoName": "ສະຫລວງ",
               "villageCode": "0202073"
             },
             {
               "villageEngName": "HUAYLA",
-              "villageLaoName": "ຫ້ວຍ​ຫລ້າ",
+              "villageLaoName": "ຫ້ວຍຫລ້າ",
               "villageCode": "0202074"
             },
             {
               "villageEngName": "NALAM",
-              "villageLaoName": "ນາ​ລຳ",
+              "villageLaoName": "ນາລຳ",
               "villageCode": "0202075"
             },
             {
@@ -3605,17 +3605,17 @@
             },
             {
               "villageEngName": "PHINTHOR",
-              "villageLaoName": "ຝີ່ນ​ຫໍ່",
+              "villageLaoName": "ຝີ່ນຫໍ່",
               "villageCode": "0202077"
             },
             {
               "villageEngName": "PANGHAITAI",
-              "villageLaoName": "ປາງ​ໄຮ​ໃຕ້",
+              "villageLaoName": "ປາງໄຮໃຕ້",
               "villageCode": "0202078"
             },
             {
               "villageEngName": "HUAYLOD",
-              "villageLaoName": "ຫ້ວຍ​ລອດ",
+              "villageLaoName": "ຫ້ວຍລອດ",
               "villageCode": "0202079"
             },
             {
@@ -3625,27 +3625,27 @@
             },
             {
               "villageEngName": "HUAYPHOUK",
-              "villageLaoName": "ຫ້ວຍ​ພຸກ",
+              "villageLaoName": "ຫ້ວຍພຸກ",
               "villageCode": "0202081"
             },
             {
               "villageEngName": "HUAYCHA",
-              "villageLaoName": "ຫ້ວຍ​ຈ້າ",
+              "villageLaoName": "ຫ້ວຍຈ້າ",
               "villageCode": "0202082"
             },
             {
               "villageEngName": "POUNGKHAO",
-              "villageLaoName": "ປຸງ​ເຂົ້າ",
+              "villageLaoName": "ປຸງເຂົ້າ",
               "villageCode": "0202083"
             },
             {
               "villageEngName": "CHOMCHEOKAO",
-              "villageLaoName": "ຈອມ​ແຈວ​ເກົ່າ",
+              "villageLaoName": "ຈອມແຈວເກົ່າ",
               "villageCode": "0202084"
             },
             {
               "villageEngName": "KHACHI",
-              "villageLaoName": "ຂ້າ​ຈີ່",
+              "villageLaoName": "ຂ້າຈີ່",
               "villageCode": "0202085"
             },
             {
@@ -3675,7 +3675,7 @@
             },
             {
               "villageEngName": "PAKPA",
-              "villageLaoName": "ປາກ​ປາ",
+              "villageLaoName": "ປາກປາ",
               "villageCode": "0202091"
             },
             {
@@ -3800,7 +3800,7 @@
             },
             {
               "villageEngName": "KATANGSOY",
-              "villageLaoName": "ກະຕ່າງ​ໂຊຍ",
+              "villageLaoName": "ກະຕ່າງໂຊຍ",
               "villageCode": "0202116"
             },
             {
@@ -3828,57 +3828,57 @@
           "villagesData": [
             {
               "villageEngName": "MEUAGKHOUA",
-              "villageLaoName": "ເມືອງ​ຂວາ",
+              "villageLaoName": "ເມືອງຂວາ",
               "villageCode": "0203001"
             },
             {
               "villageEngName": "SOPAD",
-              "villageLaoName": "ສົບ​ອັດ",
+              "villageLaoName": "ສົບອັດ",
               "villageCode": "0203002"
             },
             {
               "villageEngName": "HUAYYANG",
-              "villageLaoName": "ຫ້ວຍ​ຍ່າງ",
+              "villageLaoName": "ຫ້ວຍຍ່າງ",
               "villageCode": "0203003"
             },
             {
               "villageEngName": "NATOUN",
-              "villageLaoName": "ນາ​ຕຸ່ນ",
+              "villageLaoName": "ນາຕຸ່ນ",
               "villageCode": "0203004"
             },
             {
               "villageEngName": "SALONGXAY",
-              "villageLaoName": "ສະຫຼອງ​ໄຊ",
+              "villageLaoName": "ສະຫຼອງໄຊ",
               "villageCode": "0203005"
             },
             {
               "villageEngName": "HADDEUA",
-              "villageLaoName": "ຫາດ​ເດືອ",
+              "villageLaoName": "ຫາດເດືອ",
               "villageCode": "0203006"
             },
             {
               "villageEngName": "PHOXAYTAI",
-              "villageLaoName": "ໂພ​ໄຊ​ໃຕ້",
+              "villageLaoName": "ໂພໄຊໃຕ້",
               "villageCode": "0203007"
             },
             {
               "villageEngName": "THABAK",
-              "villageLaoName": "​ທ່າ​ບັກ",
+              "villageLaoName": "ທ່າບັກ",
               "villageCode": "0203008"
             },
             {
               "villageEngName": "PHOUXAYNEUA",
-              "villageLaoName": "ໂພ​ໄຊ​ເໜືອ",
+              "villageLaoName": "ໂພໄຊເໜືອ",
               "villageCode": "0203009"
             },
             {
               "villageEngName": "PHONXAY",
-              "villageLaoName": "ໂພນ​ໄຊ",
+              "villageLaoName": "ໂພນໄຊ",
               "villageCode": "0203010"
             },
             {
               "villageEngName": "TANGKOK",
-              "villageLaoName": "ຕ່າງ​ກົກ",
+              "villageLaoName": "ຕ່າງກົກ",
               "villageCode": "0203011"
             },
             {
@@ -3893,37 +3893,37 @@
             },
             {
               "villageEngName": "HUAYSOY",
-              "villageLaoName": "ຫ້ວຍ​ສອຍ",
+              "villageLaoName": "ຫ້ວຍສອຍ",
               "villageCode": "0203014"
             },
             {
               "villageEngName": "HUAYPHOUK",
-              "villageLaoName": "ຫ້ວຍ​ພຸກ",
+              "villageLaoName": "ຫ້ວຍພຸກ",
               "villageCode": "0203015"
             },
             {
               "villageEngName": "HUAYPHAEOU",
-              "villageLaoName": "ຫ້ວຍ​ແພ​ອູ",
+              "villageLaoName": "ຫ້ວຍແພອູ",
               "villageCode": "0203016"
             },
             {
               "villageEngName": "OMLOUNG",
-              "villageLaoName": "ອົມ​ລຸງ",
+              "villageLaoName": "ອົມລຸງ",
               "villageCode": "0203017"
             },
             {
               "villageEngName": "HUAYPA",
-              "villageLaoName": "ຫ້ວຍ​ປາ",
+              "villageLaoName": "ຫ້ວຍປາ",
               "villageCode": "0203018"
             },
             {
               "villageEngName": "CHANKOUD",
-              "villageLaoName": "ຈາກ​ກຸດ",
+              "villageLaoName": "ຈາກກຸດ",
               "villageCode": "0203019"
             },
             {
               "villageEngName": "CHANMAI",
-              "villageLaoName": "ຈັນ​ໄໝ່",
+              "villageLaoName": "ຈັນໄໝ່",
               "villageCode": "0203020"
             },
             {
@@ -3933,27 +3933,27 @@
             },
             {
               "villageEngName": "SOPKAI",
-              "villageLaoName": "ສົບ​ກ່າຍ",
+              "villageLaoName": "ສົບກ່າຍ",
               "villageCode": "0203022"
             },
             {
               "villageEngName": "HUAYKHANG",
-              "villageLaoName": "ຫ້ວຍ​ຄາງ",
+              "villageLaoName": "ຫ້ວຍຄາງ",
               "villageCode": "0203023"
             },
             {
               "villageEngName": "LADSANG",
-              "villageLaoName": "ລາດ​ຊ້າງ",
+              "villageLaoName": "ລາດຊ້າງ",
               "villageCode": "0203024"
             },
             {
               "villageEngName": "HADSERY",
-              "villageLaoName": "ຫາດ​ເຊີຍ",
+              "villageLaoName": "ຫາດເຊີຍ",
               "villageCode": "0203025"
             },
             {
               "villageEngName": "MONSARVANH",
-              "villageLaoName": "ມອນ​ສະ​ຫວັນ",
+              "villageLaoName": "ມອນສະຫວັນ",
               "villageCode": "0203026"
             },
             {
@@ -3963,37 +3963,37 @@
             },
             {
               "villageEngName": "HADNAG",
-              "villageLaoName": "ຫາດ​ນາງ",
+              "villageLaoName": "ຫາດນາງ",
               "villageCode": "0203028"
             },
             {
               "villageEngName": "SINXAY",
-              "villageLaoName": "ສີນ​ໄຊ",
+              "villageLaoName": "ສີນໄຊ",
               "villageCode": "0203029"
             },
             {
               "villageEngName": "LAOLY",
-              "villageLaoName": "ລາວ​ລີ",
+              "villageLaoName": "ລາວລີ",
               "villageCode": "0203030"
             },
             {
               "villageEngName": "SANKHAMTAI",
-              "villageLaoName": "ແສນ​ຄຳ​ໃຕ້",
+              "villageLaoName": "ແສນຄຳໃຕ້",
               "villageCode": "0203031"
             },
             {
               "villageEngName": "LISOU",
-              "villageLaoName": "ລີ​ສຸ",
+              "villageLaoName": "ລີສຸ",
               "villageCode": "0203032"
             },
             {
               "villageEngName": "DONGKHAM",
-              "villageLaoName": "ດົງ​ຂາມ",
+              "villageLaoName": "ດົງຂາມ",
               "villageCode": "0203033"
             },
             {
               "villageEngName": "HUAYPHOD",
-              "villageLaoName": "ຫ້ວຍ​ພອດ",
+              "villageLaoName": "ຫ້ວຍພອດ",
               "villageCode": "0203034"
             },
             {
@@ -4003,67 +4003,67 @@
             },
             {
               "villageEngName": "HUAYPHAEKOR",
-              "villageLaoName": "ຫ້​ວຍ​ແພກໍ",
+              "villageLaoName": "ຫ້ວຍແພກໍ",
               "villageCode": "0203036"
             },
             {
               "villageEngName": "LAHANGYAI",
-              "villageLaoName": "ລະ​ຮ່າງ​ໃຫຍ່",
+              "villageLaoName": "ລະຮ່າງໃຫຍ່",
               "villageCode": "0203037"
             },
             {
               "villageEngName": "NAMBONTAI",
-              "villageLaoName": "ນ້ຳ​ບອນ​ໃຕ້",
+              "villageLaoName": "ນ້ຳບອນໃຕ້",
               "villageCode": "0203038"
             },
             {
               "villageEngName": "SANGHUAY",
-              "villageLaoName": "ສ້າງ​ຫ້ວຍ",
+              "villageLaoName": "ສ້າງຫ້ວຍ",
               "villageCode": "0203039"
             },
             {
               "villageEngName": "NAMBONNEUA",
-              "villageLaoName": "ນ້ຳ​ບອນ​ເໜືອ",
+              "villageLaoName": "ນ້ຳບອນເໜືອ",
               "villageCode": "0203040"
             },
             {
               "villageEngName": "SANMAMCHEB",
-              "villageLaoName": "ສະ​ໝຳ​ແຈບ",
+              "villageLaoName": "ສະໝຳແຈບ",
               "villageCode": "0203041"
             },
             {
               "villageEngName": "SABOR",
-              "villageLaoName": "ສະ​ບໍ",
+              "villageLaoName": "ສະບໍ",
               "villageCode": "0203042"
             },
             {
               "villageEngName": "CHALAMAI",
-              "villageLaoName": "ຈະ​ລະ​ໃໝ່",
+              "villageLaoName": "ຈະລະໃໝ່",
               "villageCode": "0203043"
             },
             {
               "villageEngName": "TANGKALA",
-              "villageLaoName": "ຕ່າງ​ກະ​ລະ",
+              "villageLaoName": "ຕ່າງກະລະ",
               "villageCode": "0203044"
             },
             {
               "villageEngName": "CHALAKAO",
-              "villageLaoName": "ຈະ​ລະ​ເກົ່າ",
+              "villageLaoName": "ຈະລະເກົ່າ",
               "villageCode": "0203045"
             },
             {
               "villageEngName": "TONCHONG",
-              "villageLaoName": "ຕອນ​ຈົງ",
+              "villageLaoName": "ຕອນຈົງ",
               "villageCode": "0203046"
             },
             {
               "villageEngName": "NAMMATAI",
-              "villageLaoName": "ນ້ຳ​ມາ​ໃຕ້",
+              "villageLaoName": "ນ້ຳມາໃຕ້",
               "villageCode": "0203047"
             },
             {
               "villageEngName": "HONGLUEK",
-              "villageLaoName": "ຮອງ​ເລີກ",
+              "villageLaoName": "ຮອງເລີກ",
               "villageCode": "0203048"
             },
             {
@@ -4073,32 +4073,32 @@
             },
             {
               "villageEngName": "PHICHERKAO",
-              "villageLaoName": "ພິ​ເຈີ​ເກົ່າ",
+              "villageLaoName": "ພິເຈີເກົ່າ",
               "villageCode": "0203050"
             },
             {
               "villageEngName": "PHICHERMAI",
-              "villageLaoName": "ພິ​ເຈິ​ໃໝ່",
+              "villageLaoName": "ພິເຈິໃໝ່",
               "villageCode": "0203051"
             },
             {
               "villageEngName": "MOKKWUANG",
-              "villageLaoName": "ມົກ​ກວາງ",
+              "villageLaoName": "ມົກກວາງ",
               "villageCode": "0203052"
             },
             {
               "villageEngName": "SANKHAMNUEA",
-              "villageLaoName": "ແສນ​ຄຳ​ເໜືອ",
+              "villageLaoName": "ແສນຄຳເໜືອ",
               "villageCode": "0203053"
             },
             {
               "villageEngName": "NAMMANEUA",
-              "villageLaoName": "ນ້ຳ​ມາ​ເໜືອ",
+              "villageLaoName": "ນ້ຳມາເໜືອ",
               "villageCode": "0203054"
             },
             {
               "villageEngName": "BUAMPHANH",
-              "villageLaoName": "ບວມ​ພັນ",
+              "villageLaoName": "ບວມພັນ",
               "villageCode": "0203055"
             },
             {
@@ -4108,7 +4108,7 @@
             },
             {
               "villageEngName": "KOKPHAO",
-              "villageLaoName": "ກົກ​ພ້າວ",
+              "villageLaoName": "ກົກພ້າວ",
               "villageCode": "0203057"
             },
             {
@@ -4123,47 +4123,47 @@
             },
             {
               "villageEngName": "KOKNGEW",
-              "villageLaoName": "ກົກ​ງີ້ວ",
+              "villageLaoName": "ກົກງີ້ວ",
               "villageCode": "0203060"
             },
             {
               "villageEngName": "KIEW",
-              "villageLaoName": "ກິ​ວ",
+              "villageLaoName": "ກິວ",
               "villageCode": "0203061"
             },
             {
               "villageEngName": "HUAYON",
-              "villageLaoName": "ຫ້ວຍ​ອ່ອນ",
+              "villageLaoName": "ຫ້ວຍອ່ອນ",
               "villageCode": "0203062"
             },
             {
               "villageEngName": "YALO",
-              "villageLaoName": "ຍະ​ໂລະ",
+              "villageLaoName": "ຍະໂລະ",
               "villageCode": "0203063"
             },
             {
               "villageEngName": "SANYANG",
-              "villageLaoName": "ແສນ​ຍ່າງ",
+              "villageLaoName": "ແສນຍ່າງ",
               "villageCode": "0203064"
             },
             {
               "villageEngName": "KEWKAM",
-              "villageLaoName": "ກີ່ວ​ກ່ຳ",
+              "villageLaoName": "ກີ່ວກ່ຳ",
               "villageCode": "0203065"
             },
             {
               "villageEngName": "MOKPHEK",
-              "villageLaoName": "ມົກ​ແພກ",
+              "villageLaoName": "ມົກແພກ",
               "villageCode": "0203066"
             },
             {
               "villageEngName": "PHOUVING",
-              "villageLaoName": "ພູ​ວຽງ",
+              "villageLaoName": "ພູວຽງ",
               "villageCode": "0203067"
             },
             {
               "villageEngName": "HOUAITHONG",
-              "villageLaoName": "ຫ້ວຍ​ທອງ",
+              "villageLaoName": "ຫ້ວຍທອງ",
               "villageCode": "0203068"
             },
             {
@@ -4173,12 +4173,12 @@
             },
             {
               "villageEngName": "DABKACHOK",
-              "villageLaoName": "ດັບ​ກະ​ຈອກ",
+              "villageLaoName": "ດັບກະຈອກ",
               "villageCode": "0203070"
             },
             {
               "villageEngName": "OMTALA",
-              "villageLaoName": "ອົມ​ຕະ​ລາ",
+              "villageLaoName": "ອົມຕະລາ",
               "villageCode": "0203071"
             },
             {
@@ -4188,42 +4188,42 @@
             },
             {
               "villageEngName": "SANLAD",
-              "villageLaoName": "ແສນ​ລາດ",
+              "villageLaoName": "ແສນລາດ",
               "villageCode": "0203073"
             },
             {
               "villageEngName": "KOUNGKEUAY",
-              "villageLaoName": "ກຸງ​ເກື່ອຍ",
+              "villageLaoName": "ກຸງເກື່ອຍ",
               "villageCode": "0203074"
             },
             {
               "villageEngName": "KOUNGLID",
-              "villageLaoName": "ກຸງ​ລີດ",
+              "villageLaoName": "ກຸງລີດ",
               "villageCode": "0203075"
             },
             {
               "villageEngName": "OMPHIA",
-              "villageLaoName": "ອົມ​ເພຍ",
+              "villageLaoName": "ອົມເພຍ",
               "villageCode": "0203076"
             },
             {
               "villageEngName": "HUAYKOUD",
-              "villageLaoName": "ຫ້ອຍ​ກຸດ",
+              "villageLaoName": "ຫ້ອຍກຸດ",
               "villageCode": "0203077"
             },
             {
               "villageEngName": "PHONSAAD",
-              "villageLaoName": "ໂພນ​ສະ​ອາດ",
+              "villageLaoName": "ໂພນສະອາດ",
               "villageCode": "0203078"
             },
             {
               "villageEngName": "YANGTUEY",
-              "villageLaoName": "ຢ່າງ​ເຕີຍ",
+              "villageLaoName": "ຢ່າງເຕີຍ",
               "villageCode": "0203079"
             },
             {
               "villageEngName": "OMTHAB",
-              "villageLaoName": "ອົມ​ທັບ",
+              "villageLaoName": "ອົມທັບ",
               "villageCode": "0203080"
             },
             {
@@ -4233,27 +4233,27 @@
             },
             {
               "villageEngName": "VIENGKHAM",
-              "villageLaoName": "ວຽງ​ຄຳ",
+              "villageLaoName": "ວຽງຄຳ",
               "villageCode": "0203082"
             },
             {
               "villageEngName": "TANHA",
-              "villageLaoName": "ຕັນ​ຫະ",
+              "villageLaoName": "ຕັນຫະ",
               "villageCode": "0203083"
             },
             {
               "villageEngName": "HADDEN",
-              "villageLaoName": "ຫາດ​ແດນ",
+              "villageLaoName": "ຫາດແດນ",
               "villageCode": "0203084"
             },
             {
               "villageEngName": "OMTLIN",
-              "villageLaoName": "ອົມ​ຕຼືນ",
+              "villageLaoName": "ອົມຕຼືນ",
               "villageCode": "0203085"
             },
             {
               "villageEngName": "VANGKONG",
-              "villageLaoName": "ວັງ​ກອງ",
+              "villageLaoName": "ວັງກອງ",
               "villageCode": "0203086"
             },
             {
@@ -4263,37 +4263,37 @@
             },
             {
               "villageEngName": "KADING",
-              "villageLaoName": "ກະ​ດຼືງ",
+              "villageLaoName": "ກະດຼືງ",
               "villageCode": "0203088"
             },
             {
               "villageEngName": "VIENGXAY",
-              "villageLaoName": "ວຽງ​ໄຊ",
+              "villageLaoName": "ວຽງໄຊ",
               "villageCode": "0203089"
             },
             {
               "villageEngName": "PAKBAN",
-              "villageLaoName": "ປາກ​ບານ",
+              "villageLaoName": "ປາກບານ",
               "villageCode": "0203090"
             },
             {
               "villageEngName": "HADPON",
-              "villageLaoName": "ຫາດ​ໂປນ",
+              "villageLaoName": "ຫາດໂປນ",
               "villageCode": "0203091"
             },
             {
               "villageEngName": "NAMBOUD",
-              "villageLaoName": "ນ້ຳ​ບຸດ",
+              "villageLaoName": "ນ້ຳບຸດ",
               "villageCode": "0203092"
             },
             {
               "villageEngName": "PHOUSATHI",
-              "villageLaoName": "ພູ​ສະ​ຖີ",
+              "villageLaoName": "ພູສະຖີ",
               "villageCode": "0203093"
             },
             {
               "villageEngName": "OMPHOUD",
-              "villageLaoName": "ອົມ​ພຣຸ",
+              "villageLaoName": "ອົມພຣຸ",
               "villageCode": "0203094"
             },
             {
@@ -4390,13 +4390,13 @@
         },
         {
           "districtEngName": "SAMPHANH",
-          "districtLaoName": "ສຳ​ພັນ",
+          "districtLaoName": "ສຳພັນ",
           "districtCode": "0204",
           "totalVillages": 79,
           "villagesData": [
             {
               "villageEngName": "NARXAY",
-              "villageLaoName": "ນາ​ໄຊ",
+              "villageLaoName": "ນາໄຊ",
               "villageCode": "0204001"
             },
             {
@@ -4556,7 +4556,7 @@
             },
             {
               "villageEngName": "NAMLI",
-              "villageLaoName": "ນ້ຳ​ລີ",
+              "villageLaoName": "ນ້ຳລີ",
               "villageCode": "0204033"
             },
             {
@@ -4656,7 +4656,7 @@
             },
             {
               "villageEngName": "EELEK",
-              "villageLaoName": "ອີ​ແລັກ",
+              "villageLaoName": "ອີແລັກ",
               "villageCode": "0204053"
             },
             {
@@ -4793,7 +4793,7 @@
         },
         {
           "districtEngName": "BOONNEUA",
-          "districtLaoName": "​ບຸນ​ເໜືອ",
+          "districtLaoName": "ບຸນເໜືອ",
           "districtCode": "0205",
           "totalVillages": 85,
           "villagesData": [
@@ -4854,7 +4854,7 @@
             },
             {
               "villageEngName": "NHORDBOUN",
-              "villageLaoName": "ຍອດ​ບຸນ",
+              "villageLaoName": "ຍອດບຸນ",
               "villageCode": "0205012"
             },
             {
@@ -4874,7 +4874,7 @@
             },
             {
               "villageEngName": "HOUAISANG",
-              "villageLaoName": "ຫ້ວຍ​ຊາງ",
+              "villageLaoName": "ຫ້ວຍຊາງ",
               "villageCode": "0205016"
             },
             {
@@ -4904,7 +4904,7 @@
             },
             {
               "villageEngName": "HOUAINHENG",
-              "villageLaoName": "ຫ້ວຍ​ຍິ່ງ",
+              "villageLaoName": "ຫ້ວຍຍິ່ງ",
               "villageCode": "0205022"
             },
             {
@@ -4934,7 +4934,7 @@
             },
             {
               "villageEngName": "PAKHAMAI68",
-              "villageLaoName": "ປ່າ​ຄາ​ໃຫມ່68",
+              "villageLaoName": "ປ່າຄາໃຫມ່68",
               "villageCode": "0205028"
             },
             {
@@ -4959,7 +4959,7 @@
             },
             {
               "villageEngName": "NAMKARNG",
-              "villageLaoName": "ນໍ້າ​ກັ່ງ",
+              "villageLaoName": "ນໍ້າກັ່ງ",
               "villageCode": "0205033"
             },
             {
@@ -5104,7 +5104,7 @@
             },
             {
               "villageEngName": "HUOILAE",
-              "villageLaoName": "​ຫ້ວຍ​ແລ",
+              "villageLaoName": "ຫ້ວຍແລ",
               "villageCode": "0205062"
             },
             {
@@ -5226,7 +5226,7 @@
         },
         {
           "districtEngName": "NHODOU",
-          "districtLaoName": "ຍອດ​​ອູ",
+          "districtLaoName": "ຍອດອູ",
           "districtCode": "0206",
           "totalVillages": 97,
           "villagesData": [
@@ -5327,7 +5327,7 @@
             },
             {
               "villageEngName": "OUNEAU",
-              "villageLaoName": "ອູ​ເໜືອ",
+              "villageLaoName": "ອູເໜືອ",
               "villageCode": "0206020"
             },
             {
@@ -5422,7 +5422,7 @@
             },
             {
               "villageEngName": "CHANSANOR",
-              "villageLaoName": "ຈັນສານໍ​​",
+              "villageLaoName": "ຈັນສານໍ",
               "villageCode": "0206039"
             },
             {
@@ -5719,7 +5719,7 @@
         },
         {
           "districtEngName": "BOONTAI",
-          "districtLaoName": "​ບຸນ​ໃຕ້",
+          "districtLaoName": "ບຸນໃຕ້",
           "districtCode": "0207",
           "totalVillages": 76,
           "villagesData": [
@@ -5910,7 +5910,7 @@
             },
             {
               "villageEngName": "SANOMAI",
-              "villageLaoName": "ສະ​ໂນ​ໃໝ່",
+              "villageLaoName": "ສະໂນໃໝ່",
               "villageCode": "0207038"
             },
             {
@@ -5965,7 +5965,7 @@
             },
             {
               "villageEngName": "AYA",
-              "villageLaoName": "ອາ​ຢາ",
+              "villageLaoName": "ອາຢາ",
               "villageCode": "0207049"
             },
             {
@@ -7609,7 +7609,7 @@
         },
         {
           "districtEngName": "VIENGPHOUKHA",
-          "districtLaoName": "ວຽງ​ພູ​ຄາ",
+          "districtLaoName": "ວຽງພູຄາ",
           "districtCode": "0304",
           "totalVillages": 48,
           "villagesData": [
@@ -7857,7 +7857,7 @@
         },
         {
           "districtEngName": "NALAE",
-          "districtLaoName": "ນາ​ແລ",
+          "districtLaoName": "ນາແລ",
           "districtCode": "0305",
           "totalVillages": 78,
           "villagesData": [
@@ -8819,7 +8819,7 @@
             },
             {
               "villageEngName": "PHOXAY",
-              "villageLaoName": "​ໂພໄຊ",
+              "villageLaoName": "ໂພໄຊ",
               "villageCode": "0401111"
             },
             {
@@ -8907,7 +8907,7 @@
             },
             {
               "villageEngName": "HUAISONG",
-              "villageLaoName": "ຫ້ວຍ​ຊັງ",
+              "villageLaoName": "ຫ້ວຍຊັງ",
               "villageCode": "0402014"
             },
             {
@@ -8987,7 +8987,7 @@
             },
             {
               "villageEngName": "HUAYSOU",
-              "villageLaoName": "ຫ້ວຍ​ຊູ",
+              "villageLaoName": "ຫ້ວຍຊູ",
               "villageCode": "0402030"
             },
             {
@@ -9094,7 +9094,7 @@
         },
         {
           "districtEngName": "NAMOR",
-          "districtLaoName": "ນາ​ໝໍ້",
+          "districtLaoName": "ນາໝໍ້",
           "districtCode": "0403",
           "totalVillages": 75,
           "villagesData": [
@@ -9175,7 +9175,7 @@
             },
             {
               "villageEngName": "MOUTEUN",
-              "villageLaoName": "ມູ່ຕື່ນ​",
+              "villageLaoName": "ມູ່ຕື່ນ",
               "villageCode": "0403016"
             },
             {
@@ -9880,7 +9880,7 @@
         },
         {
           "districtEngName": "BENG",
-          "districtLaoName": "​ແບງ",
+          "districtLaoName": "ແບງ",
           "districtCode": "0405",
           "totalVillages": 61,
           "villagesData": [
@@ -10716,7 +10716,7 @@
         },
         {
           "districtEngName": "PAKBENG",
-          "districtLaoName": "ປາກ​ແບງ",
+          "districtLaoName": "ປາກແບງ",
           "districtCode": "0407",
           "totalVillages": 59,
           "villagesData": [
@@ -11027,7 +11027,7 @@
       "districtsData": [
         {
           "districtEngName": "HUAYXAI",
-          "districtLaoName": "ຫ້ວຍ​ຊາຍ",
+          "districtLaoName": "ຫ້ວຍຊາຍ",
           "districtCode": "0501",
           "totalVillages": 129,
           "villagesData": [
@@ -11048,7 +11048,7 @@
             },
             {
               "villageEngName": "PANA",
-              "villageLaoName": "ປະ​ນະ",
+              "villageLaoName": "ປະນະ",
               "villageCode": "0501004"
             },
             {
@@ -11098,7 +11098,7 @@
             },
             {
               "villageEngName": "NAMKOR",
-              "villageLaoName": "ນ້ຳ​ກໍ່",
+              "villageLaoName": "ນ້ຳກໍ່",
               "villageCode": "0501014"
             },
             {
@@ -11288,7 +11288,7 @@
             },
             {
               "villageEngName": "KHONEKEO",
-              "villageLaoName": "ຂອນ​ແກ້ວ",
+              "villageLaoName": "ຂອນແກ້ວ",
               "villageCode": "0501052"
             },
             {
@@ -11323,7 +11323,7 @@
             },
             {
               "villageEngName": "XAYCHALEUN",
-              "villageLaoName": "​ໄຊ​ຈະ​ເລີນ",
+              "villageLaoName": "ໄຊຈະເລີນ",
               "villageCode": "0501059"
             },
             {
@@ -11680,7 +11680,7 @@
         },
         {
           "districtEngName": "TONPHEUNG",
-          "districtLaoName": "ຕົ້ນ​ເຜີ້ງ",
+          "districtLaoName": "ຕົ້ນເຜີ້ງ",
           "districtCode": "0502",
           "totalVillages": 53,
           "villagesData": [
@@ -12131,7 +12131,7 @@
         },
         {
           "districtEngName": "PHAOUDOM",
-          "districtLaoName": "ຜາ​ອຸດົມ",
+          "districtLaoName": "ຜາອຸດົມ",
           "districtCode": "0504",
           "totalVillages": 85,
           "villagesData": [
@@ -12307,7 +12307,7 @@
             },
             {
               "villageEngName": "PHOUVIENG",
-              "villageLaoName": "ພູ​ວຽງ",
+              "villageLaoName": "ພູວຽງ",
               "villageCode": "0504035"
             },
             {
@@ -12332,7 +12332,7 @@
             },
             {
               "villageEngName": "MOKXO",
-              "villageLaoName": "ມົກ​ໂຊະ",
+              "villageLaoName": "ມົກໂຊະ",
               "villageCode": "0504040"
             },
             {
@@ -12412,7 +12412,7 @@
             },
             {
               "villageEngName": "PHIENGTHUENG",
-              "villageLaoName": "ພຽງ​ເທິງ",
+              "villageLaoName": "ພຽງເທິງ",
               "villageCode": "0504056"
             },
             {
@@ -12564,7 +12564,7 @@
         },
         {
           "districtEngName": "PAKTHA",
-          "districtLaoName": "ປາກ​ທາ",
+          "districtLaoName": "ປາກທາ",
           "districtCode": "0505",
           "totalVillages": 40,
           "villagesData": [
@@ -12780,7 +12780,7 @@
       "districtsData": [
         {
           "districtEngName": "LUANGPRABANG PROVINCIAL CITY",
-          "districtLaoName": "ນະຄອນຫຼວງ​ພະ​ບາງ",
+          "districtLaoName": "ນະຄອນຫຼວງພະບາງ",
           "districtCode": "0601",
           "totalVillages": 132,
           "villagesData": [
@@ -13448,7 +13448,7 @@
         },
         {
           "districtEngName": "XIENGNGEUN",
-          "districtLaoName": "ຊຽງ​ເງິນ",
+          "districtLaoName": "ຊຽງເງິນ",
           "districtCode": "0602",
           "totalVillages": 52,
           "villagesData": [
@@ -13989,7 +13989,7 @@
         },
         {
           "districtEngName": "PARKOU",
-          "districtLaoName": "ປາກ​ອູ",
+          "districtLaoName": "ປາກອູ",
           "districtCode": "0604",
           "totalVillages": 54,
           "villagesData": [
@@ -14267,7 +14267,7 @@
         },
         {
           "districtEngName": "NAMBAK",
-          "districtLaoName": "ນ້ຳ​ບາກ",
+          "districtLaoName": "ນ້ຳບາກ",
           "districtCode": "0605",
           "totalVillages": 88,
           "villagesData": [
@@ -15128,7 +15128,7 @@
         },
         {
           "districtEngName": "PAKXENG",
-          "districtLaoName": "ປາກ​ແຊງ",
+          "districtLaoName": "ປາກແຊງ",
           "districtCode": "0607",
           "totalVillages": 58,
           "villagesData": [
@@ -15426,7 +15426,7 @@
         },
         {
           "districtEngName": "PHONXAY",
-          "districtLaoName": "ໂພນ​ໄຊ",
+          "districtLaoName": "ໂພນໄຊ",
           "districtCode": "0608",
           "totalVillages": 62,
           "villagesData": [
@@ -15744,7 +15744,7 @@
         },
         {
           "districtEngName": "CHOMPHET",
-          "districtLaoName": "ຈອມ​ເພັດ",
+          "districtLaoName": "ຈອມເພັດ",
           "districtCode": "0609",
           "totalVillages": 71,
           "villagesData": [
@@ -16107,7 +16107,7 @@
         },
         {
           "districtEngName": "VIENGKHAM",
-          "districtLaoName": "ວຽງ​ຄຳ",
+          "districtLaoName": "ວຽງຄຳ",
           "districtCode": "0610",
           "totalVillages": 18,
           "villagesData": [
@@ -16205,7 +16205,7 @@
         },
         {
           "districtEngName": "PHOUKHOUN",
-          "districtLaoName": "ພູ​ຄູນ",
+          "districtLaoName": "ພູຄູນ",
           "districtCode": "0611",
           "totalVillages": 44,
           "villagesData": [
@@ -16433,7 +16433,7 @@
         },
         {
           "districtEngName": "PHONTHONG",
-          "districtLaoName": "ໂພນ​ທອງ",
+          "districtLaoName": "ໂພນທອງ",
           "districtCode": "0612",
           "totalVillages": 75,
           "villagesData": [
@@ -16824,7 +16824,7 @@
       "districtsData": [
         {
           "districtEngName": "XAMNEUA",
-          "districtLaoName": "ຊຳ​ເໜືອ",
+          "districtLaoName": "ຊຳເໜືອ",
           "districtCode": "0701",
           "totalVillages": 149,
           "villagesData": [
@@ -17577,7 +17577,7 @@
         },
         {
           "districtEngName": "XIENGKHOR",
-          "districtLaoName": "ຊຽງ​ຄໍ້",
+          "districtLaoName": "ຊຽງຄໍ້",
           "districtCode": "0702",
           "totalVillages": 61,
           "villagesData": [
@@ -18073,7 +18073,7 @@
         },
         {
           "districtEngName": "VIENGXAY",
-          "districtLaoName": "ວຽງ​ໄຊ",
+          "districtLaoName": "ວຽງໄຊ",
           "districtCode": "0704",
           "totalVillages": 120,
           "villagesData": [
@@ -18681,7 +18681,7 @@
         },
         {
           "districtEngName": "HOUAMEUANG",
-          "districtLaoName": "ຫົວ​ເມືອງ",
+          "districtLaoName": "ຫົວເມືອງ",
           "districtCode": "0705",
           "totalVillages": 84,
           "villagesData": [
@@ -19109,7 +19109,7 @@
         },
         {
           "districtEngName": "XAMTAY",
-          "districtLaoName": "ຊຳ​ໃຕ້",
+          "districtLaoName": "ຊຳໃຕ້",
           "districtCode": "0706",
           "totalVillages": 111,
           "villagesData": [
@@ -19672,7 +19672,7 @@
         },
         {
           "districtEngName": "SOPBAO",
-          "districtLaoName": "ສົບ​ເບົາ",
+          "districtLaoName": "ສົບເບົາ",
           "districtCode": "0707",
           "totalVillages": 77,
           "villagesData": [
@@ -21082,7 +21082,7 @@
       "districtsData": [
         {
           "districtEngName": "XAYABOULY",
-          "districtLaoName": "ໄຊ​ຍະ​ບູ​ລີ",
+          "districtLaoName": "ໄຊຍະບູລີ",
           "districtCode": "0801",
           "totalVillages": 85,
           "villagesData": [
@@ -21668,7 +21668,7 @@
         },
         {
           "districtEngName": "HONGSA",
-          "districtLaoName": "ຫົງ​ສາ",
+          "districtLaoName": "ຫົງສາ",
           "districtCode": "0803",
           "totalVillages": 38,
           "villagesData": [
@@ -21999,7 +21999,7 @@
         },
         {
           "districtEngName": "XIENGHONE",
-          "districtLaoName": "ຊຽງ​ຮອນ",
+          "districtLaoName": "ຊຽງຮອນ",
           "districtCode": "0805",
           "totalVillages": 44,
           "villagesData": [
@@ -22227,7 +22227,7 @@
         },
         {
           "districtEngName": "PHIANG",
-          "districtLaoName": "​ພຽງ",
+          "districtLaoName": "ພຽງ",
           "districtCode": "0806",
           "totalVillages": 56,
           "villagesData": [
@@ -22515,7 +22515,7 @@
         },
         {
           "districtEngName": "PAKLAI",
-          "districtLaoName": "ປາກ​ລາຍ",
+          "districtLaoName": "ປາກລາຍ",
           "districtCode": "0807",
           "totalVillages": 69,
           "villagesData": [
@@ -22868,7 +22868,7 @@
         },
         {
           "districtEngName": "KENTHAO",
-          "districtLaoName": "ແກ່ນ​ທ້າວ",
+          "districtLaoName": "ແກ່ນທ້າວ",
           "districtCode": "0808",
           "totalVillages": 49,
           "villagesData": [
@@ -23121,7 +23121,7 @@
         },
         {
           "districtEngName": "BOTEN",
-          "districtLaoName": "ບໍ່​ແຕນ",
+          "districtLaoName": "ບໍ່ແຕນ",
           "districtCode": "0809",
           "totalVillages": 30,
           "villagesData": [
@@ -23279,7 +23279,7 @@
         },
         {
           "districtEngName": "THONGMYXAY",
-          "districtLaoName": "ທົ່ງ​ມີ​ໄຊ",
+          "districtLaoName": "ທົ່ງມີໄຊ",
           "districtCode": "0810",
           "totalVillages": 13,
           "villagesData": [
@@ -23352,7 +23352,7 @@
         },
         {
           "districtEngName": "XAYSATHAN",
-          "districtLaoName": "ໄຊ​ສະ​ຖານ",
+          "districtLaoName": "ໄຊສະຖານ",
           "districtCode": "0811",
           "totalVillages": 21,
           "villagesData": [
@@ -23654,12 +23654,12 @@
             },
             {
               "villageEngName": "PHONSAVANNUEA",
-              "villageLaoName": "ໂພນສະຫວັນ​ເໜືອ",
+              "villageLaoName": "ໂພນສະຫວັນເໜືອ",
               "villageCode": "0901036"
             },
             {
               "villageEngName": "PHSAVANTAY",
-              "villageLaoName": "ໂພນສະຫວັນ​ໃຕ້",
+              "villageLaoName": "ໂພນສະຫວັນໃຕ້",
               "villageCode": "0901037"
             },
             {
@@ -24604,7 +24604,7 @@
         },
         {
           "districtEngName": "NONGHED",
-          "districtLaoName": "​ໜອງ​ແຮດ",
+          "districtLaoName": "ໜອງແຮດ",
           "districtCode": "0903",
           "totalVillages": 112,
           "villagesData": [
@@ -25610,7 +25610,7 @@
         },
         {
           "districtEngName": "MOK",
-          "districtLaoName": "ໝອກ​",
+          "districtLaoName": "ໝອກ",
           "districtCode": "0905",
           "totalVillages": 30,
           "villagesData": [
@@ -25621,7 +25621,7 @@
             },
             {
               "villageEngName": "NAMCHAONEUA",
-              "villageLaoName": "ນ້ຳ​ຈ້າວ​ເໜືອ",
+              "villageLaoName": "ນ້ຳຈ້າວເໜືອ",
               "villageCode": "0905002"
             },
             {
@@ -25768,7 +25768,7 @@
         },
         {
           "districtEngName": "PHOUKOUD",
-          "districtLaoName": "​ພູ​ກູດ",
+          "districtLaoName": "ພູກູດ",
           "districtCode": "0906",
           "totalVillages": 51,
           "villagesData": [
@@ -26031,7 +26031,7 @@
         },
         {
           "districtEngName": "PHAXAY",
-          "districtLaoName": "ຜາ​ໄຊ",
+          "districtLaoName": "ຜາໄຊ",
           "districtCode": "0907",
           "totalVillages": 37,
           "villagesData": [
@@ -26232,7 +26232,7 @@
       "districtsData": [
         {
           "districtEngName": "PHONHONG",
-          "districtLaoName": "​ໂພນ​ໂຮງ",
+          "districtLaoName": "ໂພນໂຮງ",
           "districtCode": "1001",
           "totalVillages": 67,
           "villagesData": [
@@ -26575,7 +26575,7 @@
         },
         {
           "districtEngName": "THOULAKHOM",
-          "districtLaoName": "ທຸ​ລະ​ຄົມ",
+          "districtLaoName": "ທຸລະຄົມ",
           "districtCode": "1002",
           "totalVillages": 50,
           "villagesData": [
@@ -26833,7 +26833,7 @@
         },
         {
           "districtEngName": "KEOOUDOM",
-          "districtLaoName": "ແກ້ວ​ອຸ​ດົມ",
+          "districtLaoName": "ແກ້ວອຸດົມ",
           "districtCode": "1003",
           "totalVillages": 26,
           "villagesData": [
@@ -26971,7 +26971,7 @@
         },
         {
           "districtEngName": "KASI",
-          "districtLaoName": "ກາ​ສີ",
+          "districtLaoName": "ກາສີ",
           "districtCode": "1004",
           "totalVillages": 53,
           "villagesData": [
@@ -27244,7 +27244,7 @@
         },
         {
           "districtEngName": "VANGVIENG",
-          "districtLaoName": "ວັງ​ວຽງ",
+          "districtLaoName": "ວັງວຽງ",
           "districtCode": "1005",
           "totalVillages": 67,
           "villagesData": [
@@ -27835,7 +27835,7 @@
         },
         {
           "districtEngName": "XANAKHAM",
-          "districtLaoName": "​ຊະ​ນະ​ຄາມ",
+          "districtLaoName": "ຊະນະຄາມ",
           "districtCode": "1007",
           "totalVillages": 35,
           "villagesData": [
@@ -28191,7 +28191,7 @@
         },
         {
           "districtEngName": "VIENGKHAM",
-          "districtLaoName": "ວຽງ​ຄຳ",
+          "districtLaoName": "ວຽງຄຳ",
           "districtCode": "1009",
           "totalVillages": 18,
           "villagesData": [
@@ -28289,7 +28289,7 @@
         },
         {
           "districtEngName": "HINHERB",
-          "districtLaoName": "ຫີນ​ເຫີບ",
+          "districtLaoName": "ຫີນເຫີບ",
           "districtCode": "1010",
           "totalVillages": 48,
           "villagesData": [
@@ -28673,7 +28673,7 @@
       "districtsData": [
         {
           "districtEngName": "PAKXAN",
-          "districtLaoName": "ປາກ​ຊັນ",
+          "districtLaoName": "ປາກຊັນ",
           "districtCode": "1101",
           "totalVillages": 60,
           "villagesData": [
@@ -28981,7 +28981,7 @@
         },
         {
           "districtEngName": "THAPHABAD",
-          "districtLaoName": "ທ່າ​ພະ​ບາດ",
+          "districtLaoName": "ທ່າພະບາດ",
           "districtCode": "1102",
           "totalVillages": 33,
           "villagesData": [
@@ -29154,7 +29154,7 @@
         },
         {
           "districtEngName": "PAKKADING",
-          "districtLaoName": "ປາກ​ກະ​ດິງ",
+          "districtLaoName": "ປາກກະດິງ",
           "districtCode": "1103",
           "totalVillages": 55,
           "villagesData": [
@@ -29437,7 +29437,7 @@
         },
         {
           "districtEngName": "BOLIKHANH",
-          "districtLaoName": "ບໍ​ລິ​ຄັນ",
+          "districtLaoName": "ບໍລິຄັນ",
           "districtCode": "1104",
           "totalVillages": 52,
           "villagesData": [
@@ -29705,7 +29705,7 @@
         },
         {
           "districtEngName": "KHAMKUED",
-          "districtLaoName": "ຄຳ​ເກີດ",
+          "districtLaoName": "ຄຳເກີດ",
           "districtCode": "1105",
           "totalVillages": 77,
           "villagesData": [
@@ -30098,7 +30098,7 @@
         },
         {
           "districtEngName": "VIENGTHONG",
-          "districtLaoName": "ວຽງ​ທອງ",
+          "districtLaoName": "ວຽງທອງ",
           "districtCode": "1106",
           "totalVillages": 49,
           "villagesData": [
@@ -30351,7 +30351,7 @@
         },
         {
           "districtEngName": "XAYCHAMPHONE",
-          "districtLaoName": "ໄຊ​ຈຳ​ພອນ",
+          "districtLaoName": "ໄຊຈຳພອນ",
           "districtCode": "1107",
           "totalVillages": 25,
           "villagesData": [
@@ -30492,7 +30492,7 @@
       "districtsData": [
         {
           "districtEngName": "THAKHEK",
-          "districtLaoName": "ທ່າ​ແຂກ",
+          "districtLaoName": "ທ່າແຂກ",
           "districtCode": "1201",
           "totalVillages": 137,
           "villagesData": [
@@ -31185,7 +31185,7 @@
         },
         {
           "districtEngName": "MAHAXAY",
-          "districtLaoName": "ມະ​ຫາ​ໄຊ",
+          "districtLaoName": "ມະຫາໄຊ",
           "districtCode": "1202",
           "totalVillages": 79,
           "villagesData": [
@@ -31588,7 +31588,7 @@
         },
         {
           "districtEngName": "NONGBOK",
-          "districtLaoName": "ໜອງ​ບົກ",
+          "districtLaoName": "ໜອງບົກ",
           "districtCode": "1203",
           "totalVillages": 59,
           "villagesData": [
@@ -31891,7 +31891,7 @@
         },
         {
           "districtEngName": "HINBOUN",
-          "districtLaoName": "ຫິນ​ບູນ",
+          "districtLaoName": "ຫິນບູນ",
           "districtCode": "1204",
           "totalVillages": 128,
           "villagesData": [
@@ -32539,7 +32539,7 @@
         },
         {
           "districtEngName": "NHOMMALAD",
-          "districtLaoName": "ຍົມ​ມະ​ລາດ",
+          "districtLaoName": "ຍົມມະລາດ",
           "districtCode": "1205",
           "totalVillages": 73,
           "villagesData": [
@@ -32912,7 +32912,7 @@
         },
         {
           "districtEngName": "BUALAPHA",
-          "districtLaoName": "ບົວ​ລະ​ພາ",
+          "districtLaoName": "ບົວລະພາ",
           "districtCode": "1206",
           "totalVillages": 90,
           "villagesData": [
@@ -33370,7 +33370,7 @@
         },
         {
           "districtEngName": "NAKAI",
-          "districtLaoName": "ນາ​ກາຍ",
+          "districtLaoName": "ນາກາຍ",
           "districtCode": "1207",
           "totalVillages": 61,
           "villagesData": [
@@ -33683,7 +33683,7 @@
         },
         {
           "districtEngName": "XEBANGFAY",
-          "districtLaoName": "ເຊບັ້ງ​ໄຟ",
+          "districtLaoName": "ເຊບັ້ງໄຟ",
           "districtCode": "1208",
           "totalVillages": 51,
           "villagesData": [
@@ -33946,7 +33946,7 @@
         },
         {
           "districtEngName": "XAYBOUATHONG",
-          "districtLaoName": "ໄຊ​ບົວ​ທອງ",
+          "districtLaoName": "ໄຊບົວທອງ",
           "districtCode": "1209",
           "totalVillages": 48,
           "villagesData": [
@@ -34194,7 +34194,7 @@
         },
         {
           "districtEngName": "KHOUNKHAM",
-          "districtLaoName": "ຄູນ​ຄຳ",
+          "districtLaoName": "ຄູນຄຳ",
           "districtCode": "1210",
           "totalVillages": 35,
           "villagesData": [
@@ -34385,7 +34385,7 @@
       "districtsData": [
         {
           "districtEngName": "KAYSONEPHOMVIHANE PROVINCIAL CITY",
-          "districtLaoName": "ນະຄອນໄກ​ສອນ​ພົມ​ວິ​ຫານ",
+          "districtLaoName": "ນະຄອນໄກສອນພົມວິຫານ",
           "districtCode": "1301",
           "totalVillages": 74,
           "villagesData": [
@@ -34763,7 +34763,7 @@
         },
         {
           "districtEngName": "OUTHOOMPHONE",
-          "districtLaoName": "ອຸ​ທຸມ​ພອນ",
+          "districtLaoName": "ອຸທຸມພອນ",
           "districtCode": "1302",
           "totalVillages": 73,
           "villagesData": [
@@ -35136,7 +35136,7 @@
         },
         {
           "districtEngName": "ATSAPHANGTHONG",
-          "districtLaoName": "ອາດ​ສະ​ພັງ​ທອງ",
+          "districtLaoName": "ອາດສະພັງທອງ",
           "districtCode": "1303",
           "totalVillages": 43,
           "villagesData": [
@@ -35907,7 +35907,7 @@
         },
         {
           "districtEngName": "SEPONE",
-          "districtLaoName": "ເຊ​ໂປນ",
+          "districtLaoName": "ເຊໂປນ",
           "districtCode": "1305",
           "totalVillages": 101,
           "villagesData": [
@@ -36803,7 +36803,7 @@
         },
         {
           "districtEngName": "THAPANGTHONG",
-          "districtLaoName": "ທ່າ​ປາງ​ທອງ",
+          "districtLaoName": "ທ່າປາງທອງ",
           "districtCode": "1307",
           "totalVillages": 47,
           "villagesData": [
@@ -37046,7 +37046,7 @@
         },
         {
           "districtEngName": "SONGKHONE",
-          "districtLaoName": "ສອງ​ຄອນ",
+          "districtLaoName": "ສອງຄອນ",
           "districtCode": "1308",
           "totalVillages": 110,
           "villagesData": [
@@ -38167,7 +38167,7 @@
         },
         {
           "districtEngName": "XONNABULY",
-          "districtLaoName": "ຊົນ​ນະບູລີ",
+          "districtLaoName": "ຊົນນະບູລີ",
           "districtCode": "1310",
           "totalVillages": 76,
           "villagesData": [
@@ -38555,7 +38555,7 @@
         },
         {
           "districtEngName": "XAYBULY",
-          "districtLaoName": "ໄຊ​ບູ​ລີ",
+          "districtLaoName": "ໄຊບູລີ",
           "districtCode": "1311",
           "totalVillages": 63,
           "villagesData": [
@@ -38866,7 +38866,7 @@
             },
             {
               "villageEngName": "KENGKABAO",
-              "villageLaoName": "​ແກ້ງກະເບົາ",
+              "villageLaoName": "ແກ້ງກະເບົາ",
               "villageCode": "1311062"
             },
             {
@@ -38878,7 +38878,7 @@
         },
         {
           "districtEngName": "VILABULY",
-          "districtLaoName": "ວິ​ລະ​ບູ​ລີ",
+          "districtLaoName": "ວິລະບູລີ",
           "districtCode": "1312",
           "totalVillages": 81,
           "villagesData": [
@@ -39291,7 +39291,7 @@
         },
         {
           "districtEngName": "ATSAPHONE",
-          "districtLaoName": "ອາດ​ສະ​ພອນ",
+          "districtLaoName": "ອາດສະພອນ",
           "districtCode": "1313",
           "totalVillages": 79,
           "villagesData": [
@@ -39694,7 +39694,7 @@
         },
         {
           "districtEngName": "XAYPHOOTHONG",
-          "districtLaoName": "ໄຊ​ພູ​ທອງ",
+          "districtLaoName": "ໄຊພູທອງ",
           "districtCode": "1314",
           "totalVillages": 50,
           "villagesData": [
@@ -39952,7 +39952,7 @@
         },
         {
           "districtEngName": "PHALANXAY",
-          "districtLaoName": "ພະ​ລານ​ໄຊ",
+          "districtLaoName": "ພະລານໄຊ",
           "districtCode": "1315",
           "totalVillages": 62,
           "villagesData": [
@@ -40278,7 +40278,7 @@
       "districtsData": [
         {
           "districtEngName": "SARAVANE",
-          "districtLaoName": "ສາ​ລະ​ວັນ",
+          "districtLaoName": "ສາລະວັນ",
           "districtCode": "1401",
           "totalVillages": 151,
           "villagesData": [
@@ -41339,7 +41339,7 @@
         },
         {
           "districtEngName": "TOUMLAN",
-          "districtLaoName": "ຕຸ້ມ​ລານ",
+          "districtLaoName": "ຕຸ້ມລານ",
           "districtCode": "1403",
           "totalVillages": 40,
           "villagesData": [
@@ -41547,7 +41547,7 @@
         },
         {
           "districtEngName": "LAKHONEPHENG",
-          "districtLaoName": "​ລະ​ຄອນ​ເພັງ",
+          "districtLaoName": "ລະຄອນເພັງ",
           "districtCode": "1404",
           "totalVillages": 82,
           "villagesData": [
@@ -41965,68 +41965,68 @@
         },
         {
           "districtEngName": "VAPY",
-          "districtLaoName": "​ວາ​ປີ",
+          "districtLaoName": "ວາປີ",
           "districtCode": "1405",
           "totalVillages": 63,
           "villagesData": [
             {
               "villageEngName": "POUMSAVANH",
-              "villageLaoName": "ພູມ​ສະ​ຫວັນ",
+              "villageLaoName": "ພູມສະຫວັນ",
               "villageCode": "1405001"
             },
             {
               "villageEngName": "KONGLEUYAI",
-              "villageLaoName": "ກອງ​ລື້​ໃຫ່​ຍ",
+              "villageLaoName": "ກອງລື້ໃຫ່ຍ",
               "villageCode": "1405002"
             },
             {
               "villageEngName": "NALANH",
-              "villageLaoName": "ນາ​ລັນ",
+              "villageLaoName": "ນາລັນ",
               "villageCode": "1405003"
             },
             {
               "villageEngName": "NAXANH",
-              "villageLaoName": "ນາ​ຊັນ",
+              "villageLaoName": "ນາຊັນ",
               "villageCode": "1405004"
             },
             {
               "villageEngName": "NAHONGKHAM",
-              "villageLaoName": "ນາ​ຮ​ອ່ງ​ຂາມ",
+              "villageLaoName": "ນາຮອ່ງຂາມ",
               "villageCode": "1405005"
             },
             {
               "villageEngName": "KAENGNOY",
-              "villageLaoName": "ແກ້ງນ​ອ້ຍ",
+              "villageLaoName": "ແກ້ງນອ້ຍ",
               "villageCode": "1405006"
             },
             {
               "villageEngName": "NONGPHO",
-              "villageLaoName": "ໜອງ​ໂພ",
+              "villageLaoName": "ໜອງໂພ",
               "villageCode": "1405007"
             },
             {
               "villageEngName": "DONGMONE",
-              "villageLaoName": "ດົງ​ມອນ",
+              "villageLaoName": "ດົງມອນ",
               "villageCode": "1405008"
             },
             {
               "villageEngName": "SAMIA",
-              "villageLaoName": "​ສະ​ເໝັຍ",
+              "villageLaoName": "ສະເໝັຍ",
               "villageCode": "1405009"
             },
             {
               "villageEngName": "KAENGKU",
-              "villageLaoName": "ແກ້ງ​ກຸ",
+              "villageLaoName": "ແກ້ງກຸ",
               "villageCode": "1405010"
             },
             {
               "villageEngName": "CHONG",
-              "villageLaoName": "ຈ​ອ໋ງ",
+              "villageLaoName": "ຈອ໋ງ",
               "villageCode": "1405011"
             },
             {
               "villageEngName": "DONGLAOU",
-              "villageLaoName": "ດົງ​ລະ​ອຸ",
+              "villageLaoName": "ດົງລະອຸ",
               "villageCode": "1405012"
             },
             {
@@ -42046,47 +42046,47 @@
             },
             {
               "villageEngName": "KAENGSUTHI",
-              "villageLaoName": "ແກ້ງ​ສຸ​ທິ",
+              "villageLaoName": "ແກ້ງສຸທິ",
               "villageCode": "1405016"
             },
             {
               "villageEngName": "MUANGVERNKHAM",
-              "villageLaoName": "ມ​ວ່ງ​ເວີນ​ຄຳ",
+              "villageLaoName": "ມວ່ງເວີນຄຳ",
               "villageCode": "1405017"
             },
             {
               "villageEngName": "SAPHAT",
-              "villageLaoName": "ສະ​ພາດ",
+              "villageLaoName": "ສະພາດ",
               "villageCode": "1405018"
             },
             {
               "villageEngName": "NAPHONTANH",
-              "villageLaoName": "ນາ​ໂພນ​ຕານ",
+              "villageLaoName": "ນາໂພນຕານ",
               "villageCode": "1405019"
             },
             {
               "villageEngName": "NAHOUAHAED",
-              "villageLaoName": "ນາ​ຫົວ​ແຮດ",
+              "villageLaoName": "ນາຫົວແຮດ",
               "villageCode": "1405020"
             },
             {
               "villageEngName": "NAPHO",
-              "villageLaoName": "ນາ​ໂພ",
+              "villageLaoName": "ນາໂພ",
               "villageCode": "1405021"
             },
             {
               "villageEngName": "NAMUANG",
-              "villageLaoName": "ນາມ​ວ່ງ",
+              "villageLaoName": "ນາມວ່ງ",
               "villageCode": "1405022"
             },
             {
               "villageEngName": "NAVA",
-              "villageLaoName": "ນາ​ຫວ້າ",
+              "villageLaoName": "ນາຫວ້າ",
               "villageCode": "1405023"
             },
             {
               "villageEngName": "PHAKKHA",
-              "villageLaoName": "ຜັກ​ຂະ",
+              "villageLaoName": "ຜັກຂະ",
               "villageCode": "1405024"
             },
             {
@@ -42101,7 +42101,7 @@
             },
             {
               "villageEngName": "PHONPHAENG",
-              "villageLaoName": "ໂພນ​ແພງ",
+              "villageLaoName": "ໂພນແພງ",
               "villageCode": "1405027"
             },
             {
@@ -42111,137 +42111,137 @@
             },
             {
               "villageEngName": "KHANAO",
-              "villageLaoName": "ຂະ​ເໜົາ",
+              "villageLaoName": "ຂະເໜົາ",
               "villageCode": "1405029"
             },
             {
               "villageEngName": "NASIED",
-              "villageLaoName": "ນາ​ສຽດ",
+              "villageLaoName": "ນາສຽດ",
               "villageCode": "1405030"
             },
             {
               "villageEngName": "DONEKHAM",
-              "villageLaoName": "ດອນ​ຄຳ",
+              "villageLaoName": "ດອນຄຳ",
               "villageCode": "1405031"
             },
             {
               "villageEngName": "THONGKHIEN",
-              "villageLaoName": "ທົ່ງ​ຂຽນ",
+              "villageLaoName": "ທົ່ງຂຽນ",
               "villageCode": "1405032"
             },
             {
               "villageEngName": "HINDANH",
-              "villageLaoName": "ຫີນ​ດ່ານ",
+              "villageLaoName": "ຫີນດ່ານ",
               "villageCode": "1405033"
             },
             {
               "villageEngName": "BANGKHANNAM",
-              "villageLaoName": "ບັງ​ຄານ້ຳ",
+              "villageLaoName": "ບັງຄານ້ຳ",
               "villageCode": "1405034"
             },
             {
               "villageEngName": "VAPI",
-              "villageLaoName": "ວາ​ປີ",
+              "villageLaoName": "ວາປີ",
               "villageCode": "1405035"
             },
             {
               "villageEngName": "HUAYKHON",
-              "villageLaoName": "ຫວ້ຍ​ໂຄນ",
+              "villageLaoName": "ຫວ້ຍໂຄນ",
               "villageCode": "1405036"
             },
             {
               "villageEngName": "KHORXONG",
-              "villageLaoName": "ເກາະ​ຊອງ",
+              "villageLaoName": "ເກາະຊອງ",
               "villageCode": "1405037"
             },
             {
               "villageEngName": "TANSOUM",
-              "villageLaoName": "ຕານ​ສຸມ",
+              "villageLaoName": "ຕານສຸມ",
               "villageCode": "1405038"
             },
             {
               "villageEngName": "NALAONG",
-              "villageLaoName": "ນາ​ລະ​ໂອງ",
+              "villageLaoName": "ນາລະໂອງ",
               "villageCode": "1405039"
             },
             {
               "villageEngName": "NONGNGONG",
-              "villageLaoName": "ໜອງ​ໂງ້ງ",
+              "villageLaoName": "ໜອງໂງ້ງ",
               "villageCode": "1405040"
             },
             {
               "villageEngName": "NAKOKTAN",
-              "villageLaoName": "ນາ​ກົກ​ຕານ",
+              "villageLaoName": "ນາກົກຕານ",
               "villageCode": "1405041"
             },
             {
               "villageEngName": "DONKHA",
-              "villageLaoName": "ດອນ​ຂ່າ",
+              "villageLaoName": "ດອນຂ່າ",
               "villageCode": "1405042"
             },
             {
               "villageEngName": "KHONSAY",
-              "villageLaoName": "ຄອນ​ສາຍ",
+              "villageLaoName": "ຄອນສາຍ",
               "villageCode": "1405043"
             },
             {
               "villageEngName": "NAKANG",
-              "villageLaoName": "ນາ​ກາງ",
+              "villageLaoName": "ນາກາງ",
               "villageCode": "1405044"
             },
             {
               "villageEngName": "BANGKHAKHOK",
-              "villageLaoName": "ບັງ​ຄາ​ໂຄກ",
+              "villageLaoName": "ບັງຄາໂຄກ",
               "villageCode": "1405045"
             },
             {
               "villageEngName": "DONKHAOMIN",
-              "villageLaoName": "ດອນ​ເໝັ້ນ",
+              "villageLaoName": "ດອນເໝັ້ນ",
               "villageCode": "1405046"
             },
             {
               "villageEngName": "NAPHIMANH",
-              "villageLaoName": "ນາ​ພິ​ມານ",
+              "villageLaoName": "ນາພິມານ",
               "villageCode": "1405047"
             },
             {
               "villageEngName": "KONGLEUNOY",
-              "villageLaoName": "ກອງ​ລື້ນ​ອ້ຍ",
+              "villageLaoName": "ກອງລື້ນອ້ຍ",
               "villageCode": "1405048"
             },
             {
               "villageEngName": "NONGBOUA",
-              "villageLaoName": "ໜອງ​ບົວ",
+              "villageLaoName": "ໜອງບົວ",
               "villageCode": "1405049"
             },
             {
               "villageEngName": "NONGVANH",
-              "villageLaoName": "ນາ​ໜອງ​ຈານ",
+              "villageLaoName": "ນາໜອງຈານ",
               "villageCode": "1405050"
             },
             {
               "villageEngName": "NAXAD",
-              "villageLaoName": "ນາ​ຊາດ",
+              "villageLaoName": "ນາຊາດ",
               "villageCode": "1405051"
             },
             {
               "villageEngName": "NONGPHERNG",
-              "villageLaoName": "ໜອງ​ເຜິ້ງ",
+              "villageLaoName": "ໜອງເຜິ້ງ",
               "villageCode": "1405052"
             },
             {
               "villageEngName": "PHAILOM",
-              "villageLaoName": "ໄຜ່​ລ​ອ້ມ",
+              "villageLaoName": "ໄຜ່ລອ້ມ",
               "villageCode": "1405053"
             },
             {
               "villageEngName": "NONKHOR",
-              "villageLaoName": "ໂນນ​ຄໍ້",
+              "villageLaoName": "ໂນນຄໍ້",
               "villageCode": "1405054"
             },
             {
               "villageEngName": "NATAPIENG",
-              "villageLaoName": "ນາ​ຕະ​ປຽງ",
+              "villageLaoName": "ນາຕະປຽງ",
               "villageCode": "1405055"
             },
             {
@@ -42288,7 +42288,7 @@
         },
         {
           "districtEngName": "KHONGXEDONE",
-          "districtLaoName": "ຄົງ​ເຊ​ໂດນ",
+          "districtLaoName": "ຄົງເຊໂດນ",
           "districtCode": "1406",
           "totalVillages": 93,
           "villagesData": [
@@ -42761,7 +42761,7 @@
         },
         {
           "districtEngName": "LAONGARM",
-          "districtLaoName": "​ເລົ່າ​ງາ​ມ",
+          "districtLaoName": "ເລົ່າງາມ",
           "districtCode": "1407",
           "totalVillages": 102,
           "villagesData": [
@@ -43279,7 +43279,7 @@
         },
         {
           "districtEngName": "SAMUOI",
-          "districtLaoName": "ສະ​​ມ້ວຍ",
+          "districtLaoName": "ສະມ້ວຍ",
           "districtCode": "1408",
           "totalVillages": 57,
           "villagesData": [
@@ -43580,7 +43580,7 @@
       "districtsData": [
         {
           "districtEngName": "LAMARM",
-          "districtLaoName": "ລະ​ມາມ",
+          "districtLaoName": "ລະມາມ",
           "districtCode": "1501",
           "totalVillages": 50,
           "villagesData": [
@@ -43838,7 +43838,7 @@
         },
         {
           "districtEngName": "KALEUM",
-          "districtLaoName": "ກະ​ລຶມ",
+          "districtLaoName": "ກະລຶມ",
           "districtCode": "1502",
           "totalVillages": 81,
           "villagesData": [
@@ -44251,7 +44251,7 @@
         },
         {
           "districtEngName": "DAKCHEUNG",
-          "districtLaoName": "ດາກ​ຈຶງ",
+          "districtLaoName": "ດາກຈຶງ",
           "districtCode": "1503",
           "totalVillages": 70,
           "villagesData": [
@@ -44609,7 +44609,7 @@
         },
         {
           "districtEngName": "THATENG",
-          "districtLaoName": "​ທ່າ​ແຕງ",
+          "districtLaoName": "ທ່າແຕງ",
           "districtCode": "1504",
           "totalVillages": 57,
           "villagesData": [
@@ -44910,7 +44910,7 @@
       "districtsData": [
         {
           "districtEngName": "PAKSE PROVINCIAL CITY",
-          "districtLaoName": "ນະຄອນປາກ​ເຊ",
+          "districtLaoName": "ນະຄອນປາກເຊ",
           "districtCode": "1601",
           "totalVillages": 50,
           "villagesData": [
@@ -45168,7 +45168,7 @@
         },
         {
           "districtEngName": "SANASOMBOON",
-          "districtLaoName": "ຊະ​ນະ​ສົມ​ບູນ",
+          "districtLaoName": "ຊະນະສົມບູນ",
           "districtCode": "1602",
           "totalVillages": 60,
           "villagesData": [
@@ -45476,7 +45476,7 @@
         },
         {
           "districtEngName": "BACHIENGCHALEUNSOUK",
-          "districtLaoName": "ບາ​ຈຽງຈະເລີນສຸກ",
+          "districtLaoName": "ບາຈຽງຈະເລີນສຸກ",
           "districtCode": "1603",
           "totalVillages": 59,
           "villagesData": [
@@ -45779,7 +45779,7 @@
         },
         {
           "districtEngName": "PAKXONG",
-          "districtLaoName": "ປາກ​ຊ່ອງ",
+          "districtLaoName": "ປາກຊ່ອງ",
           "districtCode": "1604",
           "totalVillages": 94,
           "villagesData": [
@@ -46257,7 +46257,7 @@
         },
         {
           "districtEngName": "PATHOUMPHONE",
-          "districtLaoName": "ປະ​ທຸມ​ພອນ",
+          "districtLaoName": "ປະທຸມພອນ",
           "districtCode": "1605",
           "totalVillages": 78,
           "villagesData": [
@@ -46655,7 +46655,7 @@
         },
         {
           "districtEngName": "PHONTHONG",
-          "districtLaoName": "ໂພນ​ທອງ",
+          "districtLaoName": "ໂພນທອງ",
           "districtCode": "1606",
           "totalVillages": 75,
           "villagesData": [
@@ -47038,7 +47038,7 @@
         },
         {
           "districtEngName": "CHAMPASAK",
-          "districtLaoName": "ຈຳ​ປາ​ສັກ",
+          "districtLaoName": "ຈຳປາສັກ",
           "districtCode": "1607",
           "totalVillages": 91,
           "villagesData": [
@@ -47501,7 +47501,7 @@
         },
         {
           "districtEngName": "SUKHUMA",
-          "districtLaoName": "​ສຸ​ຂຸ​ມາ",
+          "districtLaoName": "ສຸຂຸມາ",
           "districtCode": "1608",
           "totalVillages": 58,
           "villagesData": [
@@ -47799,7 +47799,7 @@
         },
         {
           "districtEngName": "MOONLAPAMOK",
-          "districtLaoName": "ມຸນ​ລະ​ປະ​ໂມກ",
+          "districtLaoName": "ມຸນລະປະໂມກ",
           "districtCode": "1609",
           "totalVillages": 39,
           "villagesData": [
@@ -48828,7 +48828,7 @@
       "districtsData": [
         {
           "districtEngName": "XAYSETTHA",
-          "districtLaoName": "ໄຊ​ເສດ​ຖາ",
+          "districtLaoName": "ໄຊເສດຖາ",
           "districtCode": "1701",
           "totalVillages": 32,
           "villagesData": [
@@ -48996,7 +48996,7 @@
         },
         {
           "districtEngName": "SAMAKKHIXAY",
-          "districtLaoName": "ສາ​ມັກ​ຄີ​ໄຊ",
+          "districtLaoName": "ສາມັກຄີໄຊ",
           "districtCode": "1702",
           "totalVillages": 48,
           "villagesData": [
@@ -49244,7 +49244,7 @@
         },
         {
           "districtEngName": "SANAMXAY",
-          "districtLaoName": "ສະ​ໜາມ​ໄຊ",
+          "districtLaoName": "ສະໜາມໄຊ",
           "districtCode": "1703",
           "totalVillages": 48,
           "villagesData": [
@@ -49492,7 +49492,7 @@
         },
         {
           "districtEngName": "SANXAY",
-          "districtLaoName": "ຊານ​ໄຊ",
+          "districtLaoName": "ຊານໄຊ",
           "districtCode": "1704",
           "totalVillages": 44,
           "villagesData": [
@@ -49720,7 +49720,7 @@
         },
         {
           "districtEngName": "PHOUVONG",
-          "districtLaoName": "ພູ​ວົງ",
+          "districtLaoName": "ພູວົງ",
           "districtCode": "1705",
           "totalVillages": 21,
           "villagesData": [
@@ -49841,7 +49841,7 @@
       "districtsData": [
         {
           "districtEngName": "ANOUVONG",
-          "districtLaoName": "ອະ​ນຸ​ວົງ",
+          "districtLaoName": "ອະນຸວົງ",
           "districtCode": "1801",
           "totalVillages": 24,
           "villagesData": [
@@ -49969,7 +49969,7 @@
         },
         {
           "districtEngName": "THATHOM",
-          "districtLaoName": "ທ່າ​ໂທມ",
+          "districtLaoName": "ທ່າໂທມ",
           "districtCode": "1802",
           "totalVillages": 27,
           "villagesData": [
@@ -50112,7 +50112,7 @@
         },
         {
           "districtEngName": "LONGCHAENG",
-          "districtLaoName": "​ລ່ອງ​ແຈ້ງ",
+          "districtLaoName": "ລ່ອງແຈ້ງ",
           "districtCode": "1803",
           "totalVillages": 10,
           "villagesData": [
@@ -50273,7 +50273,7 @@
         },
         {
           "districtEngName": "LONGSAN",
-          "districtLaoName": "ລ້ອງ​ຊານ",
+          "districtLaoName": "ລ້ອງຊານ",
           "districtCode": "1805",
           "totalVillages": 27,
           "villagesData": [
