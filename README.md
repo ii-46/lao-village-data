@@ -1,5 +1,4 @@
 # Province, District and Village Data in Laos PDR (ຂໍ້ມູນ ບ້ານ, ເມຶອງ ແລະ ແຂວງ ໃນປະເທດລາວ)
-ໃນ Repo ນີ້ປະກອບມີໄຟລ json ທີ່ເກັບມູນ ບ້ານ, ເມຶອງ ແລະ ແຂວງ ໃນປະເທດລາວ.
 
 ## JSON Schema
     
@@ -83,7 +82,7 @@
 ```
 
 
-## ຕົວຢ່າງ:
+## Example:
 ```json
 {
   "totalProvinces": 18, // number
